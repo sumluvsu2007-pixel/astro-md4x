@@ -2,7 +2,7 @@ Keep AGENTS.md updated with project status
 
 # astromd4x
 
-Drop-in replacement for `@astrojs/markdown-remark` powered by [md4x](https://github.com/unjs/md4x). Single runtime dep.
+Drop-in replacement for `@astrojs/markdown-remark` powered by [md4x](https://github.com/pi0/md4x). Single runtime dep.
 
 ## Source files
 

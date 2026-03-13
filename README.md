@@ -7,7 +7,7 @@
 
 <!-- /automd -->
 
-Drop-in replacement for [`@astrojs/markdown-remark`](https://github.com/withastro/astro/tree/main/packages/markdown/remark) powered by [md4x](https://github.com/unjs/md4x).
+Drop-in replacement for [`@astrojs/markdown-remark`](https://github.com/withastro/astro/tree/main/packages/markdown/remark) powered by [md4x](https://github.com/pi0/md4x).
 
 **~50-70x faster** markdown rendering with a single native dependency.
 
@@ -125,4 +125,4 @@ See [plan.md](./plan.md) for the full roadmap.
 
 ## License
 
-Published under the [MIT](https://github.com/unjs/astromd4x/blob/main/LICENSE) license.
+Published under the [MIT](https://github.com/pi0/astromd4x/blob/main/LICENSE) license.
