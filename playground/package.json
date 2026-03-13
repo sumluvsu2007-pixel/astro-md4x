@@ -1,0 +1,12 @@
+{
+  "name": "astromd4x-playground",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "latest"
+  }
+}
