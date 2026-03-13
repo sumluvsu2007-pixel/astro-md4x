@@ -96,6 +96,18 @@ Default configuration objects matching `@astrojs/markdown-remark` defaults.
 - Heading metadata extraction
 - Full type compatibility with `@astrojs/markdown-remark`
 
+## Current Limitations
+
+This is an early release focused on core rendering performance. Some `@astrojs/markdown-remark` features are not yet implemented:
+
+- Shiki/Prism syntax highlighting (md4x supports a `highlighter` callback — wiring planned)
+- Remark/Rehype plugin pipeline
+- Image path collection (`localImagePaths`/`remoteImagePaths`)
+- Smartypants typography
+- TOML frontmatter
+
+See [plan.md](./plan.md) for the full roadmap.
+
 ## Development
 
 <details>
