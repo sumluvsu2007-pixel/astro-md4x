@@ -1,6 +1,6 @@
 {
   "name": "astromd4x",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "API-compatible replacement for @astrojs/markdown-remark powered by md4x",
   "license": "MIT",
   "repository": "unjs/astromd4x",
